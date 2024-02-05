@@ -1,7 +1,29 @@
 h1 {
     color: rgb(255, 0, 0);
+    text-align: center;
 }
 
+h2 {
+     text-align: center;
+     background-color: rgba(133, 200, 226, 0.705);
+     border-width: 2px;
+     border-radius: 5px;
+     border-color: rgb(0, 0, 0);
+     padding-left: 15px;
+     padding-right: 15px;
+     padding-top: 7px;
+     padding-bottom: 7px;
+     margin-left: 5%;
+     margin-right: 5%;
+     
+    
+}
+
+a {
+    text-decoration-line: none;
+}
+
+   
 .block {
     background-color: rgb(241, 221, 221);
     border-style: solid;
@@ -23,3 +45,6 @@ img {
     display: block;
 
 }
+
+   
+   
