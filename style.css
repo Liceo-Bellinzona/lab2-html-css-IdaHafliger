@@ -23,6 +23,10 @@ a {
     text-decoration-line: none;
 }
 
+a:hover {
+color: hotpink;
+}
+
    
 .block {
     background-color: rgb(241, 221, 221);
